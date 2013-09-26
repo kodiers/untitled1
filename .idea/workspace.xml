@@ -5,7 +5,7 @@
     <ignored path="untitled1.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/TestCharm.py" changelist="bb1103fe-6e29-4eac-a705-98fd169aa528" time="1380225234365" ignored="false" />
-    <file path="/Test2" changelist="bb1103fe-6e29-4eac-a705-98fd169aa528" time="1380225430734" ignored="false" />
+    <file path="/Test2" changelist="bb1103fe-6e29-4eac-a705-98fd169aa528" time="1380225545864" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,7 +37,7 @@
       <file leaf-file-name="Test2" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Test2">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="3" column="6" selection-start="34" selection-end="34" vertical-scroll-proportion="0.10250569">
+            <state line="5" column="0" selection-start="42" selection-end="42" vertical-scroll-proportion="0.17084283">
               <folding />
             </state>
           </provider>
@@ -227,7 +227,7 @@
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32998565" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32998565" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -308,7 +308,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Test2">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="6" selection-start="34" selection-end="34" vertical-scroll-proportion="0.10250569">
+        <state line="5" column="0" selection-start="42" selection-end="42" vertical-scroll-proportion="0.17084283">
           <folding />
         </state>
       </provider>
